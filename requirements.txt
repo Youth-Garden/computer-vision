@@ -1,0 +1,12 @@
+opencv-python
+numpy
+matplotlib
+PyWavelets
+Pillow
+scikit-learn
+scikit-image
+jupyter
+mtcnn
+keras-facenet
+scipy
+tensorflow
